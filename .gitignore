@@ -1,1 +1,9 @@
 .idea/
+
+# output files
+*.sum
+*.out
+*.ech
+*.outb
+*.log
+vtk/
